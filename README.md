@@ -7,4 +7,4 @@ do not have
 1.เเล็บ Git
 2. lab HTML
 
-![ทำไมไม่ขึ้น]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZVuHlHZy2MqKNmhvE1z7xq2rQc13yXdATA&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IcYBxWZW7yc_9SSzTMdyl8AHcm62eibIjA&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IcYBxWZW7yc_9SSzTMdyl8AHcm62eibIjA&usqp=CAU)
+![ทำไมไม่ขึ้น](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZVuHlHZy2MqKNmhvE1z7xq2rQc13yXdATA&usqp=CAU))
